@@ -1,5 +1,5 @@
 const textElement1 = document.getElementById("intro");
-const text1 = "Hi , I am Arvind Kumar Sikandra";
+const text1 = "Hi , I am Harshad Kumar Damor";
 let index = 0;
 
 function type() {
